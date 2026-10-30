@@ -1,0 +1,14 @@
+# Salidas generadas por el notebook
+salida_*
+corpus_play_colombia.csv
+
+# Políticas de privacidad (propiedad de cada desarrollador)
+datos/politicas/*
+!datos/politicas/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
